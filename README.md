@@ -2,7 +2,7 @@
 
 a small synthetic prototype exploring how fragmented healthcare records can be harmonized into longitudinal patient trajectories, retrieved against similar historical journeys, and also used to surface operational intervention points.
 
-this project was inspired by the infrastructure problem of turning disconnected hospital data into actionable intelligence. it is not a clinical prediction tool.
+this project was inspired by the infrastructure problem of turning disconnected hospital data into actionable intelligence (creds: Eos AI). it is not a clinical prediction tool.
 
 ## What This Prototype Demonstrates
 
