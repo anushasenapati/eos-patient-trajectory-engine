@@ -1,0 +1,9 @@
+patient_id,timestamp,claim_type,status,amount_usd,denial_reason,source_system
+P001,2026-02-01,Specialist Referral,Denied,420,Missing prior authorization,BillingSystem
+P002,2026-01-20,Nutrition Counseling,Paid,180,,BillingSystem
+P003,2026-02-05,Specialist Referral,Denied,390,Referral documentation incomplete,BillingSystem
+P004,2026-01-20,Preventive Visit,Paid,210,,BillingSystem
+P005,2026-02-07,Specialist Referral,Denied,450,Missing prior authorization,BillingSystem
+P006,2026-02-01,Specialist Referral,Paid,400,,BillingSystem
+P007,2026-01-21,Emergency Visit,Paid,1300,,BillingSystem
+P008,2026-02-02,Imaging Review,Denied,600,Authorization pending,BillingSystem

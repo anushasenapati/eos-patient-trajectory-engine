@@ -1,0 +1,9 @@
+patient_id,timestamp,authorization_type,status,payer,days_pending,source_system
+P001,2026-01-09,Specialist Visit,Delayed,BlueCross,24,PayerPortal
+P002,2026-01-12,Nutrition Counseling,Approved,Aetna,3,PayerPortal
+P003,2026-01-24,Specialist Visit,Delayed,UnitedHealthcare,31,PayerPortal
+P004,2026-01-15,Preventive Care,Not Required,Cigna,0,PayerPortal
+P005,2026-01-12,Specialist Visit,Delayed,BlueCross,29,PayerPortal
+P006,2026-01-15,Specialist Visit,Approved,Aetna,5,PayerPortal
+P007,2026-01-15,Emergency Endocrinology,Approved,Medicare,1,PayerPortal
+P008,2026-01-10,Imaging Review,Delayed,UnitedHealthcare,21,PayerPortal

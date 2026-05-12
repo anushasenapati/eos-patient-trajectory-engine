@@ -1,0 +1,9 @@
+patient_id,timestamp,referral_type,status,last_action_date,source_system
+P001,2026-01-07,Endocrinology,Pending,2026-01-07,ReferralTool
+P002,2026-01-11,Nutrition,Completed,2026-01-18,ReferralTool
+P003,2026-01-21,Endocrinology,Pending,2026-01-21,ReferralTool
+P004,2026-01-14,Nutrition,Not Needed,2026-01-14,ReferralTool
+P005,2026-01-10,Endocrinology,Pending,2026-01-10,ReferralTool
+P006,2026-01-13,Endocrinology,Completed,2026-01-25,ReferralTool
+P007,2026-01-14,Endocrinology,Urgent,2026-01-14,ReferralTool
+P008,2026-01-09,Radiology Follow-up,Pending,2026-01-09,ReferralTool

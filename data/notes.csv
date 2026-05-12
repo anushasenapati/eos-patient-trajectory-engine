@@ -1,0 +1,9 @@
+patient_id,timestamp,note,source_system
+P001,2026-02-12,"Patient reports worsening fatigue, inconsistent medication adherence, and difficulty scheduling specialist follow-up.",ClinicalNotes
+P002,2026-01-10,"Patient is stable and reports good medication adherence.",ClinicalNotes
+P003,2026-02-22,"Patient has persistent dizziness, worsening glucose control, and has not completed endocrinology referral.",ClinicalNotes
+P004,2026-01-14,"Patient is healthy with no major concerns.",ClinicalNotes
+P005,2026-02-22,"Patient reports worsening symptoms and has not heard back about specialist approval.",ClinicalNotes
+P006,2026-02-14,"Patient improved after completed endocrinology visit and medication adjustment.",ClinicalNotes
+P007,2026-01-18,"Patient required emergency escalation due to severe glucose instability.",ClinicalNotes
+P008,2026-02-03,"Patient is waiting on delayed imaging review and has not received follow-up instructions.",ClinicalNotes
